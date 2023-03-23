@@ -1,8 +1,6 @@
 package br.com.fiap.banco;
 /**
- * Classe que abstrai uma Conta Bancária
- * @author thiagoyama
- * @version 1.0
+ *
  */
 public class Conta {
 	/**
